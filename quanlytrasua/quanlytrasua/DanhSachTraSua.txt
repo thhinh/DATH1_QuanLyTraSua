@@ -1,0 +1,25 @@
+6
+1
+Tra Duong Den
+L2
+50
+2
+Tra Hoa Cuc
+L3
+15
+3
+Tra hoa sen
+L3
+25000
+4
+tra mat ong
+L2
+25000
+5
+tra hoa lai
+L3
+50000
+6
+tra cau vong
+L2
+20000
